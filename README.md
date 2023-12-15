@@ -1,9 +1,10 @@
 # WikiMuTe: A web-sourced dataset of semantic descriptions for music audio
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10223363.svg)](https://doi.org/10.5281/zenodo.10223363)
+[![arXiv](https://img.shields.io/badge/arXiv-2312.09207-b31b1b.svg)](https://arxiv.org/abs/2312.09207)
 
 
-This repository contains auxiliary code for the dataset described in the paper 
+This repository contains auxiliary code for the dataset described in [the paper](https://arxiv.org/abs/2312.09207) 
 > WikiMuTe: A web-sourced dataset of semantic descriptions for music audio.
 > Benno Weck, Holger Kirchhoff, Peter Grosche, Xavier Serra.
 > to appear in MultiMedia Modeling, 2024.
