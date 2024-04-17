@@ -5,9 +5,10 @@
 
 
 This repository contains auxiliary code for the dataset described in [the paper](https://arxiv.org/abs/2312.09207) 
-> WikiMuTe: A web-sourced dataset of semantic descriptions for music audio.
-> Benno Weck, Holger Kirchhoff, Peter Grosche, Xavier Serra.
-> to appear in MultiMedia Modeling, 2024.
+> Weck, B., Kirchhoff, H., Grosche, P., Serra, X. (2024).
+> WikiMuTe: A Web-Sourced Dataset of Semantic Descriptions for Music Audio.
+> In: Rudinac, S., et al. MultiMedia Modeling. MMM 2024. Lecture Notes in Computer Science, vol 14565. Springer, Cham.
+> https://doi.org/10.1007/978-3-031-56435-2_4
 
 ## Code
 
@@ -62,16 +63,18 @@ If you use this dataset in your research, please cite the following paper:
 
 ```bib
 @inproceedings{wikimute,
-    title = {WikiMuTe: A web-sourced dataset of semantic descriptions for music audio},
+    title = {WikiMuTe: {A} Web-Sourced Dataset of Semantic Descriptions for Music Audio},
     author = {Weck, Benno and Kirchhoff, Holger and Grosche, Peter and Serra, Xavier},
-    booktitle = {to appear in MultiMedia Modeling.},
-    year = {2024},
-    publisher="Springer International Publishing",
-    address="Cham",
+    booktitle = "MultiMedia Modeling",
+    year = "2024",
+    publisher = "Springer Nature Switzerland",
+    address = "Cham",
+    pages = "42--56",
+    doi = {10.1007/978-3-031-56435-2_4},
+    url = {https://doi.org/10.1007/978-3-031-56435-2\_4},
 }
 ```
 
-Note: The final paper is not yet published. The citation will be updated once the paper is published.
 
 ## License
 This repository is released under the MIT License. Please see the [LICENSE](LICENSE) file for more details.
