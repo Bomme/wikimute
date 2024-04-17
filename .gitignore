@@ -1,2 +1,8 @@
 data/
 venv/
+
+# PyCharm
+.idea/
+
+# macos
+.DS_Store
