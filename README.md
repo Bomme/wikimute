@@ -71,7 +71,7 @@ If you use this dataset in your research, please cite the following paper:
     address = "Cham",
     pages = "42--56",
     doi = {10.1007/978-3-031-56435-2_4},
-    url = {https://doi.org/10.1007/978-3-031-56435-2\_4},
+    url = {https://doi.org/10.1007/978-3-031-56435-2_4},
 }
 ```
 
